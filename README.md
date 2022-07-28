@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vncnttan a.k.a vincent
 - 👀 I’m interested in coding! I want to be a software dev or maybe A.I engineer because it sounds like fun
-- 🌱 I’m currently beinning to learn code from CS50
+- 🌱 I’ve just done CS50 and now I'm starting college on Computer Science.
 - 💞️ I’m looking to collaborate on many projects, especially project that will taught me a lot for my future since I'm a beginner overall
 - 📫 How to reach me? You can just email me on vincent.tanjaya.vt@gmail.com
 
