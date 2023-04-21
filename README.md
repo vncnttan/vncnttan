@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vncnttan a.k.a vincent
 - 👀 I’m interested in coding! I want to be an A.I engineer or a software dev.
 - 🌱 I am now a full-time lab assistant @BINUS SLC, NJ23-1
-- 💞️ I’m looking to collaborate on many projects, I'm a beginner overall
+- 💞️ I’m looking to collaborate on many projects, I'm a beginner after all
 - 📫 How to reach me? You can just email me on vincent.tanjaya.vt@gmail.com :]
 
 <!---
