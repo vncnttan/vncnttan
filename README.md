@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding! I want to be an A.I engineer or a software dev.
 - 🌱 I am now a full-time lab assistant @BINUS SLC, NJ23-1
 - 💞️ I’m looking to collaborate on many projects, I'm a beginner after all
-- 📫 How to reach me? You can just email me on vincent.tanjaya.vt@gmail.com :]
+- 📫 How to reach me? You can just email me on vincent.tanjaya.@binus.edu :]
 
 <!---
 vncnttan/vncnttan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
