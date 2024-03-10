@@ -3,14 +3,13 @@
 - 🌱 I am now a full-time Subject Coordinator @BINUS SLC, NJ23-1
 - 💞️ I’m looking to collaborate on many projects, hit me up
 - 📫 How to reach me? 
-<a href="www.linkedin.com/in/vincent-tanjaya/">
+<a target="_blank" href="https://www.linkedin.com/in/vincent-tanjaya/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="www.instagram.com/vncnt_tan/">
+<a target="_blank" href="https://www.instagram.com/vncnt_tan/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-</a>
-<a href="mailto:vincent.tanjaya@binus.edu">
+<a target="_blank" href="mailto:vincent.tanjaya@binus.edu">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
