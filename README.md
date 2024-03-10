@@ -16,11 +16,11 @@
 <br />
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vncnttan" />
+<a href="https://github.com/vncnttan">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vncnttan&theme=transparent" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vncnttan&layout=compact&langs_count=10&card_width=320" />
+<a href="https://github.com/vncnttan">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vncnttan&layout=compact&langs_count=10&card_width=320&size_weight=0.5&count_weight=0.5&theme=transparent" />
 </a>
 
  
